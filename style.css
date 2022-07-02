@@ -1,0 +1,16 @@
+
+.navbar navbar-inverse{
+    background-color: pink;
+    color: azure;
+}
+.container{
+    color:blueviolet;
+    background-color: aquamarine;
+}
+.container-fluid{
+    color: palevioletred;
+    background-color: black;
+}
+h1{
+    color: olivedrab;
+}
